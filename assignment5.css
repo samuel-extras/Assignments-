@@ -197,7 +197,7 @@ select option{
 }
 .image {
   width: 60%;
-  background-image: url(../../Downloads/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
+  background-image: url("https://i0.wp.com/edusimba.com/wp-content/uploads/2019/12/ales-nesetril-Im7lZjxeLhg-unsplash-scaled.jpg?ssl=1");
   background-size: cover;
 }
 .reg-main{
@@ -210,7 +210,7 @@ select option{
     min-height: 800px;
     height: auto;
     background-size: cover;
-    background-image: url(../../Downloads/free\ glowing.jpg);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlkk9MRq29LD8RKL6-Yf2DSkZHlKa2nKNoNA&usqp=CAU");
 
 
 }
@@ -220,7 +220,7 @@ select option{
 position: absolute  ;
   width: 100%;
   margin: 0;
-  background-image: url(../../Downloads/wesson-wang-y0_vFxOHayg-unsplash.jpg);
+  background-image: url("https://www.bitcity.it/immagini/2020/02/wesson-wang-y0-vfxohayg-unsplash-1.jpg");
 }
 
 .title {
